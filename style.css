@@ -358,19 +358,31 @@ body {
     color:#111;
   }
 }
-@media (max-width: 768px) {
+@media (max-width:768px){
 
-  .nav-links {
-    position: absolute;
-    top: 70px;
+  .nav-links{
+    position: fixed;
+    top: 65px;
     left: 0;
-    right: 0;
-    flex-direction: column;
-    background: #0b0f1a; /* <- black */
+    width: 100%;
     display: none;
+    flex-direction: column;
+    gap: 15px;
     padding: 20px;
+    z-index: 9999;
   }
 
+  body.light .nav-links{
+    background: #fff !important;
+  }
+
+  body.dark .nav-links{
+    background: #0b0f1a !important;
+  }
+
+  .nav-links.active{
+    display:flex;
+  }
 }
 
 @media (max-width:768px){

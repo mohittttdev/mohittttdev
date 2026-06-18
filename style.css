@@ -6,7 +6,9 @@
   font-family: 'Poppins', sans-serif;
 }
 
-
+body.light .hamburger{
+  color: #111;
+}
 /* Dark Mode */
 body.dark .popup-box {
   background: #151525;
@@ -299,10 +301,68 @@ body {
   align-items:center;
   gap:12px;
 }
+@media (max-width: 768px) {
+
+  .navbar{
+    padding: 10px 15px;
+  }
+
+  .mohit{
+    font-size: 20px;
+  }
+
+  .nav-right{
+    gap: 6px;
+  }
+
+  .wa-btn,
+  .resume-btn{
+    padding: 4px 8px;
+    font-size: 12px;
+    height: 36px;
+  }
+
+  #themeToggle{
+    width: 36px;
+    height: 36px;
+    font-size: 16px;
+  }
+
+  .hamburger{
+    display:block;
+    font-size:24px;
+  }
+}
+@media (max-width:768px){
+
+  .wa-btn,
+  .resume-btn{
+    display:none;
+  }
+
+  .hamburger{
+    display:block;
+  }
+}
 .hamburger {
   display: none;
   font-size: 26px;
   cursor: pointer;
+}
+@media (max-width:768px){
+
+  body.light .nav-links{
+    background: white;
+    border-top: 1px solid #ddd;
+  }
+
+  body.light .nav-links a{
+    color: #111 !important;
+  }
+
+  body.light .nav-links a:hover{
+    color: #6c63ff !important;
+  }
 }
 
 /* ================= BUTTONS ================= */

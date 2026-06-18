@@ -337,34 +337,58 @@ body {
 
   .wa-btn,
   .resume-btn{
-    display:none;
+    display:none !important;
+  }
+
+  .navbar{
+    padding:10px 15px;
+  }
+
+  .logo .mohit{
+    font-size:18px;
+  }
+
+  .nav-right{
+    gap:10px;
   }
 
   .hamburger{
     display:block;
+    font-size:28px;
+    color:#111;
   }
 }
-.hamburger {
-  display: none;
-  font-size: 26px;
-  cursor: pointer;
+@media (max-width: 768px) {
+
+  .nav-links {
+    position: absolute;
+    top: 70px;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    background: #0b0f1a; /* <- black */
+    display: none;
+    padding: 20px;
+  }
+
 }
+
 @media (max-width:768px){
 
   body.light .nav-links{
-    background: white;
-    border-top: 1px solid #ddd;
+    background:#fff !important;
+    border-top:1px solid #ddd;
   }
 
   body.light .nav-links a{
-    color: #111 !important;
+    color:#111 !important;
   }
 
-  body.light .nav-links a:hover{
-    color: #6c63ff !important;
+  body.dark .nav-links{
+    background:#0b0f1a !important;
   }
+
 }
-
 /* ================= BUTTONS ================= */
 .btn {
   padding: 10px 20px;

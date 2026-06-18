@@ -1,84 +1,118 @@
 # Hi 👋, I'm Mohit
 
-### 🚀 MERN Stack Developer | Frontend Enthusiast | Lifelong Learner
+### 🚀 Full Stack Developer | MERN Stack Enthusiast | UI/UX Designer
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-* 🔭 Currently working on **Frontend & MERN Stack Projects**
-* 🌱 Learning **React.js, Node.js, Express.js, MongoDB**
-* 💡 Interested in **Web Development & UI/UX Design**
-* 🎯 Goal: Become a **Job-Ready Full Stack Developer**
-* ⚡ Fun Fact: I enjoy turning ideas into responsive web applications.
+* 💻 Passionate about building modern, responsive, and user-friendly web applications
+* 🚀 Skilled in Frontend, Backend, UI/UX Design, and CMS Development
+* 🌱 Continuously learning new technologies and best practices
+* 🎯 Goal: Become a Professional Full Stack Developer
+* ⚡ Fun Fact: I enjoy transforming creative ideas into real-world digital experiences
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Frontend
+## 🎨 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
 
-### Backend
+---
+
+## ⚙️ Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
 
-### Database
+---
+
+## 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### Tools
+---
+
+## 🧰 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_CC-DA1F26?style=for-the-badge\&logo=adobecreativecloud\&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge\&logo=webflow\&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge\&logo=codepen\&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge\&logo=googlechrome\&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohittttdev\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohittttdev\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mohittttdev\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittttdev\&layout=compact\&theme=tokyonight)
 
-
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
 
-Personal portfolio showcasing my skills and projects.
+A modern personal portfolio built with React and Tailwind CSS.
 
-### 🛒 E-Commerce Website
+### 🛒 E-Commerce Platform
 
-Responsive shopping website built with HTML, CSS, JavaScript, and React.
+Full-featured shopping platform with authentication and payment integration.
 
-### 📋 Task Manager App
+### 📋 Task Management App
 
-CRUD application using MERN Stack.
+MERN Stack CRUD application with user authentication.
 
 ### 🎵 Music Player
 
-Interactive music player with custom UI and controls.
+Responsive music player with advanced controls and playlist management.
+
+### 🏢 Business Landing Pages
+
+Professional and responsive websites for businesses and startups.
 
 ---
 
-## 📫 Connect With Me
+# 📈 Current Focus
 
-* GitHub: https://github.com/mohittttdev
-* LinkedIn: Add your LinkedIn profile here
-* Email: mohitttt009@gmail.com
-
----
-
-### 💻 Coding Quote
-
-> "First, solve the problem. Then, write the code." – John Johnson
+* Advanced React Development
+* MERN Stack Projects
+* REST APIs
+* Laravel Applications
+* UI/UX Design
+* Performance Optimization
 
 ---
 
-⭐ From [mohittttdev](https://github.com/mohittttdev)
+# 📫 Let's Connect
+
+* 💼 LinkedIn: Your LinkedIn URL
+* 🌐 Portfolio: Your Portfolio URL
+* 📧 Email: Your Email Address
+
+---
+
+### 💡 Developer Quote
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.

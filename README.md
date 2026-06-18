@@ -97,8 +97,8 @@ Professional and responsive websites for businesses and startups.
 # 📫 Let's Connect
 
 * 💼 LinkedIn: Your LinkedIn URL
-* 🌐 Portfolio: Your Portfolio URL
-* 📧 Email: Your Email Address
+* 🌐 Portfolio: https://mohittttdev.github.io/mohittttdev/index.html
+* 📧 Email: mohitttt009@gmail.com
 
 ---
 

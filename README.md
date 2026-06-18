@@ -56,15 +56,7 @@
 
 ---
 
-# 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohittttdev\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mohittttdev\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittttdev\&layout=compact\&theme=tokyonight)
-
----
 
 # 🚀 Featured Projects
 

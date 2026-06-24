@@ -63,7 +63,7 @@
 ### 🌐 Portfolio Website
 
 A modern personal portfolio built with React and Tailwind CSS.
-https://mohittttdev.github.io/mohittttdev/index.html
+https://mohitdev.site.je/?i=1
 
 ### 🛒 E-Commerce Platform
 

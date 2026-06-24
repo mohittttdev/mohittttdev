@@ -63,6 +63,7 @@
 ### 🌐 Portfolio Website
 
 A modern personal portfolio built with React and Tailwind CSS.
+
 https://mohitdev.site.je/?i=1
 
 ### 🛒 E-Commerce Platform
@@ -97,7 +98,7 @@ Professional and responsive websites for businesses and startups.
 # 📫 Let's Connect
 
 * 💼 LinkedIn: Your LinkedIn URL
-* 🌐 Portfolio: https://mohittttdev.github.io/mohittttdev/index.html
+* 🌐 Portfolio: https://mohitdev.site.je/?i=1
 * 📧 Email: mohitttt009@gmail.com
 
 ---

@@ -97,7 +97,7 @@ Professional and responsive websites for businesses and startups.
 
 # 📫 Let's Connect
 
-* 💼 LinkedIn: Your LinkedIn URL
+* 💼 LinkedIn: Your LinkedIn URL  www.linkedin.com/in/mohit-sharma-130b15418
 * 🌐 Portfolio: https://mohitdev.site.je/?i=1
 * 📧 Email: mohitttt009@gmail.com
 

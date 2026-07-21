@@ -102,14 +102,10 @@ Complete Admin Dashboard with Authentication, CRUD Operations, and MySQL Databas
 
 # 📈 Current Focus
 
-* MERN Stack Development
-* MEAN Stack Development
-* PHP & Laravel Applications
-* MongoDB & MySQL Database Design
-* REST API Development
-* Authentication (JWT & Laravel)
-* Performance Optimization
-* Full Stack Projects
+* 🚀 MERN & MEAN Stack Development
+* ⚙️ PHP/Laravel & REST API Development
+* 🗄️ MongoDB & MySQL Database Design
+* 💻 Building Scalable Full Stack Applications
 
 ---
 

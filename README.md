@@ -111,7 +111,7 @@ Complete Admin Dashboard with Authentication, CRUD Operations, and MySQL Databas
 # 📫 Let's Connect
 
 * 💼 LinkedIn: [www.linkedin.com/in/mohit-sharma-130b15418](http://www.linkedin.com/in/mohit-sharma-130b15418)
-* 🌐 Portfolio: https://mohitdev.site.je/?i=1
+* 🌐 Portfolio:
 * 📧 Email: [mohitttt009@gmail.com](mailto:mohitttt009@gmail.com)
 
 ---

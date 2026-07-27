@@ -71,7 +71,7 @@ Modern developer portfolio showcasing projects, skills, and contact information.
 
 **Tech Stack:** React, Tailwind CSS
 
-https://mohitdev.site.je/?i=1
+
 
 ---
 

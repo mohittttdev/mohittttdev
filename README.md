@@ -1,136 +1,117 @@
-# Hi , I'm Mohit
+<div align="center">
 
-### Full Stack Developer | MERN Stack | MEAN Stack | PHP & Laravel Developer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:312E81,25:4338CA,50:6D28D9,75:7C3AED,100:8B5CF6&text=MOHIT%20SHARMA&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20MERN%20•%20MEAN%20•%20PHP%20•%20Laravel&descAlignY=58"/>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Engineer;Building+Modern+Business+Applications;MERN+%7C+MEAN+%7C+PHP+%7C+Laravel+Developer;Always+Learning+New+Technologies"/>
 
-*  Passionate about building modern, scalable, and responsive full-stack web applications.
-*  Skilled in **MERN Stack, MEAN Stack, PHP, Laravel, MySQL, and REST API Development.**
-*  Continuously learning new technologies, system design, and backend architecture.
-*  Goal: Become a Professional Full Stack Developer.
-*  Fun Fact: I enjoy solving real-world problems through clean and efficient code.
+![](https://img.shields.io/badge/Open%20To-Full%20Time-success?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20To-Freelance-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20To-Remote-4338CA?style=for-the-badge)
 
----
+<a href="https://mohitdev.site.je/"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-7C3AED?style=for-the-badge"/></a>
+<a href="https://github.com/mohittttdev"><img src="https://img.shields.io/badge/GitHub-mohittttdev-181717?style=for-the-badge&logo=github"/></a>
+<a href="mailto:Mohitttt009@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohit-sharma-130b15418"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 
-#  Tech Stack
+<a href="https://github.com/mohittttdev"><img src="https://img.shields.io/github/followers/mohittttdev?style=for-the-badge&logo=github&label=Follow&color=7C3AED&logoColor=white"/></a>
 
-##  Frontend Development
+![](https://komarev.com/ghpvc/?username=mohittttdev&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
+</div>
 
 ---
 
-##  Backend Development
+## About Me
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+I'm a **Full Stack Developer** from New Delhi, India, specializing in **MERN, MEAN, PHP & Laravel**. I build secure backend systems, responsive UIs, and scalable REST APIs — with real end-to-end projects including an Enterprise Business Management System and multiple dashboard-based web apps.
 
----
-
-##  Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+Currently seeking full-time, remote, or freelance Software Engineering roles.
 
 ---
 
-##  Tools & Platforms
+## Tech Stack
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge\&logo=googlechrome\&logoColor=white)
+**Frontend:** ![](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,angular,nextjs,vite)
 
----
+**Backend:** ![](https://skillicons.dev/icons?i=nodejs,express,php,laravel)
 
-#  Featured Projects
+**Database:** ![](https://skillicons.dev/icons?i=mongodb,mysql)
 
-### VitalNess – Fitness & Health Platform
+**Languages:** ![](https://skillicons.dev/icons?i=js,ts,php)
 
-A modern health and fitness platform with workout plans, nutrition tracking, injury care, authentication, and dashboards.
-
- **Tech Stack:** PHP, MySQL, JavaScript, HTML, CSS
+**Tools:** ![](https://skillicons.dev/icons?i=git,github,postman,docker,linux,figma)
 
 ---
 
-### Portfolio Website
+## Featured Projects
 
-Modern developer portfolio showcasing projects, skills, and contact information.
+### 🏢 [Business Management System (BMS)](https://github.com/mohittttdev/BMS)
+Enterprise-style admin platform for inventory, sales, purchases, customers, suppliers & reporting.
+`PHP` `MySQL` `JavaScript` `Bootstrap` — Session Auth, MVC Architecture
 
-**Tech Stack:** React, Tailwind CSS
+### 🛒 MERN E-Commerce Platform
+Full shopping platform with JWT auth, cart, orders, admin dashboard & product management.
+`MongoDB` `Express` `React` `Node.js`
 
+### 💪 VitalNess — Fitness & Health Platform
+Responsive health platform with workout plans, BMI tools, dark mode & animations.
+`HTML` `CSS` `JavaScript`
 
-
----
-
-###  MERN E-Commerce Platform
-
-A complete shopping application with authentication, admin dashboard, product management, and secure REST APIs.
-
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js
-
----
-
-###  Task Management System
-
-A CRUD application with secure authentication and role-based access.
-
-**Tech Stack:** MERN Stack
+### 🌦 Cloudy — Weather Forecast App
+Real-time, location-based weather app with live + weekly forecasts.
+`React` `REST API`
 
 ---
 
-###  Laravel Admin Panel
+## Experience
 
-Complete Admin Dashboard with Authentication, CRUD Operations, and MySQL Database.
+**Full Stack Developer** — Independent Projects · *2024 – Present*
+- Built an Enterprise Business Management System (PHP/MySQL) end-to-end
+- Designed REST APIs, authentication systems & role-based access control
+- Developed responsive admin dashboards and optimized SQL/MongoDB queries
 
-**Tech Stack:** Laravel, PHP, MySQL
-
----
-###  BMS-Business Management System
-
-A full-featured Business Management System with a responsive Admin Dashboard, Secure Authentication, Customer, Product, Supplier, Sales & Purchase Management, Inventory Tracking, and Reporting.
-
-**Tech Stack:** PHP, MySQL
-
-#  Current Focus
-
-*  MERN & MEAN Stack Development
-*  PHP/Laravel & REST API Development
-*  MongoDB & MySQL Database Design
-*  Building Scalable Full Stack Applications
-
----
-![](https://komarev.com/ghpvc/?username=mohittttdev)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohittttdev&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mohittttdev&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittttdev&layout=compact&theme=tokyonight)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=mohittttdev&theme=tokyonight)
-
-# 📫 Let's Connect
-
-* 💼 LinkedIn: [www.linkedin.com/in/mohit-sharma-130b15418](http://www.linkedin.com/in/mohit-sharma-130b15418)
-* 🌐 Portfolio:
-* 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohit-sharma-130b15418)
-* 🌐 Portfolio: [mohitdev.site.je](https://mohitdev.site.je)
-* 🐙 GitHub: [github.com/mohittttdev](https://github.com/mohittttdev)
-* 📧 Email: [mohitttt009@gmail.com](mailto:mohitttt009@gmail.com)
+`React` `Node.js` `Express` `PHP` `Laravel` `MongoDB` `MySQL` `Git`
 
 ---
 
-### 💡 Developer Quote
+## GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=mohittttdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohittttdev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=mohittttdev&theme=tokyonight&hide_border=true"/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mohittttdev&theme=algolia&no-frame=true&row=1&column=6&margin-w=15"/>
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="mailto:Mohitttt009@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Mohitttt009%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
+
+<a href="https://www.linkedin.com/in/mohit-sharma-130b15418">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/mohittttdev">
+  <img src="https://img.shields.io/badge/GitHub-mohittttdev-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://mohitdev.site.je">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:312E81,25:4338CA,50:6D28D9,75:7C3AED,100:8B5CF6"/>
+
+*"Building scalable software, solving real-world problems, and continuously learning."*
+
+</div>

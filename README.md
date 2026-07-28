@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:312E81,25:4338CA,50:6D28D9,75:7C3AED,100:8B5CF6&text=MOHIT%20SHARMA&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20MERN%20•%20MEAN%20•%20PHP%20•%20Laravel&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Engineer;Building+Modern+Business+Applications;MERN+%7C+MEAN+%7C+PHP+%7C+Laravel+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Full+Devloper;Building+Modern+Business+Applications;MERN+%7C+MEAN+%7C+PHP+%7C+Laravel+Developer;Always+Learning+New+Technologies"/>
 
 ![](https://img.shields.io/badge/Open%20To-Full%20Time-success?style=for-the-badge)
 ![](https://img.shields.io/badge/Open%20To-Freelance-7C3AED?style=for-the-badge)

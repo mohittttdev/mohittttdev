@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,25:6D28D9,50:7C3AED,75:5B21B6,100:312E81&text=MOHIT%20SHARMA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20•%20Open%20Source%20Contributor&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,25:6D28D9,50:7C3AED,75:5B21B6,100:312E81&text=MOHIT%20SHARMA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Devloper%"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 # Mohit Sharma
 
-### Full Stack Software Engineer • MERN • MEAN • PHP • Laravel
+### Full Stack Devloper • MERN • MEAN • PHP • Laravel
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=7C3AED&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Engineer;Building+Scalable+Web+Applications;MERN+%7C+MEAN+%7C+Laravel+Developer;Open+Source+Contributor;Always+Learning+New+Technologies"/>
 

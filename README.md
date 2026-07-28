@@ -113,16 +113,21 @@ A full-featured Business Management System with a responsive Admin Dashboard, Se
 
 ---
 ![](https://komarev.com/ghpvc/?username=mohittttdev)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohittttdev&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mohittttdev&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittttdev&layout=compact&theme=tokyonight)
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=mohittttdev&theme=tokyonight)
+
 # 📫 Let's Connect
 
-* 💼 LinkedIn: [www.linkedin.com/in/mohit-sharma-130b15418](http://www.linkedin.com/in/mohit-sharma-130b15418)
-* 🌐 Portfolio:
+* 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohit-sharma-130b15418)
+* 🌐 Portfolio: [mohitdev.site.je](https://mohitdev.site.je)
+* 🐙 GitHub: [github.com/mohittttdev](https://github.com/mohittttdev)
 * 📧 Email: [mohitttt009@gmail.com](mailto:mohitttt009@gmail.com)
-
 ---
 
 ### 💡 Developer Quote

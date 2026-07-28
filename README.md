@@ -74,20 +74,27 @@ Real-time, location-based weather app with live + weekly forecasts.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=mohittttdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohittttdev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" 
+src="https://github-readme-stats.vercel.app/api?username=mohittttdev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=mohittttdev&theme=tokyonight&hide_border=true"/>
+<img width="49%" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohittttdev&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mohittttdev&theme=algolia&no-frame=true&row=1&column=6&margin-w=15"/>
+<br/>
+
+<img width="90%" 
+src="https://streak-stats.demolab.com?user=mohittttdev&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img width="90%" 
+src="https://github-profile-trophy.vercel.app/?username=mohittttdev&theme=tokyonight&no-frame=true&row=1"/>
 
 </div>
-
----
 
 ## Let's Connect
 

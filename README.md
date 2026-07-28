@@ -59,7 +59,7 @@
 
 ### VitalNess – Fitness & Health Platform
 
-* A modern health and fitness platform with workout plans, nutrition tracking, injury care, authentication, and dashboards.
+A modern health and fitness platform with workout plans, nutrition tracking, injury care, authentication, and dashboards.
 
  **Tech Stack:** PHP, MySQL, JavaScript, HTML, CSS
 
@@ -67,7 +67,7 @@
 
 ### Portfolio Website
 
-* Modern developer portfolio showcasing projects, skills, and contact information.
+Modern developer portfolio showcasing projects, skills, and contact information.
 
 **Tech Stack:** React, Tailwind CSS
 
@@ -77,7 +77,7 @@
 
 ###  MERN E-Commerce Platform
 
-* A complete shopping application with authentication, admin dashboard, product management, and secure REST APIs.
+A complete shopping application with authentication, admin dashboard, product management, and secure REST APIs.
 
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js
 
@@ -85,7 +85,7 @@
 
 ###  Task Management System
 
-* A CRUD application with secure authentication and role-based access.
+A CRUD application with secure authentication and role-based access.
 
 **Tech Stack:** MERN Stack
 
@@ -93,14 +93,14 @@
 
 ###  Laravel Admin Panel
 
-* Complete Admin Dashboard with Authentication, CRUD Operations, and MySQL Database.
+Complete Admin Dashboard with Authentication, CRUD Operations, and MySQL Database.
 
 **Tech Stack:** Laravel, PHP, MySQL
 
 ---
 ###  BMS-Business Management System
 
-* A full-featured Business Management System with a responsive Admin Dashboard, Secure Authentication, Customer, Product, Supplier, Sales & Purchase Management, Inventory Tracking, and Reporting.
+A full-featured Business Management System with a responsive Admin Dashboard, Secure Authentication, Customer, Product, Supplier, Sales & Purchase Management, Inventory Tracking, and Reporting.
 
 **Tech Stack:** PHP, MySQL
 

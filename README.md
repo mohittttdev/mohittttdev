@@ -57,17 +57,17 @@
 
 #  Featured Projects
 
-###  -VitalNess – Fitness & Health Platform
+###  VitalNess – Fitness & Health Platform
 
-A modern health and fitness platform with workout plans, nutrition tracking, injury care, authentication, and dashboards.
+* A modern health and fitness platform with workout plans, nutrition tracking, injury care, authentication, and dashboards.
 
 **Tech Stack:** PHP, MySQL, JavaScript, HTML, CSS
 
 ---
 
-### -Portfolio Website
+### Portfolio Website
 
-Modern developer portfolio showcasing projects, skills, and contact information.
+* Modern developer portfolio showcasing projects, skills, and contact information.
 
 **Tech Stack:** React, Tailwind CSS
 
@@ -75,25 +75,25 @@ Modern developer portfolio showcasing projects, skills, and contact information.
 
 ---
 
-###  -MERN E-Commerce Platform
+###  MERN E-Commerce Platform
 
-A complete shopping application with authentication, admin dashboard, product management, and secure REST APIs.
+ * A complete shopping application with authentication, admin dashboard, product management, and secure REST APIs.
 
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js
 
 ---
 
-###  -Task Management System
+###  Task Management System
 
-A CRUD application with secure authentication and role-based access.
+* A CRUD application with secure authentication and role-based access.
 
 **Tech Stack:** MERN Stack
 
 ---
 
-###  -Laravel Admin Panel
+###  Laravel Admin Panel
 
-Complete Admin Dashboard with Authentication, CRUD Operations, and MySQL Database.
+* Complete Admin Dashboard with Authentication, CRUD Operations, and MySQL Database.
 
 **Tech Stack:** Laravel, PHP, MySQL
 

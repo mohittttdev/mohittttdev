@@ -1,20 +1,20 @@
-# Hi 👋, I'm Mohit
+# Hi , I'm Mohit
 
-### 🚀 Full Stack Developer | MERN Stack | MEAN Stack | PHP & Laravel Developer
+### Full Stack Developer | MERN Stack | MEAN Stack | PHP & Laravel Developer
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-* 💻 Passionate about building modern, scalable, and responsive full-stack web applications.
-* 🚀 Skilled in **MERN Stack, MEAN Stack, PHP, Laravel, MySQL, and REST API Development.**
-* 🌱 Continuously learning new technologies, system design, and backend architecture.
-* 🎯 Goal: Become a Professional Full Stack Developer.
-* ⚡ Fun Fact: I enjoy solving real-world problems through clean and efficient code.
+*  Passionate about building modern, scalable, and responsive full-stack web applications.
+*  Skilled in **MERN Stack, MEAN Stack, PHP, Laravel, MySQL, and REST API Development.**
+*  Continuously learning new technologies, system design, and backend architecture.
+*  Goal: Become a Professional Full Stack Developer.
+*  Fun Fact: I enjoy solving real-world problems through clean and efficient code.
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-## 🎨 Frontend Development
+##  Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -27,7 +27,7 @@
 
 ---
 
-## ⚙️ Backend Development
+##  Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
@@ -36,14 +36,14 @@
 
 ---
 
-## 🗄️ Databases
+##  Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ---
 
-## 🧰 Tools & Platforms
+##  Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -55,9 +55,9 @@
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-### 💪 VitalNess – Fitness & Health Platform
+###  VitalNess – Fitness & Health Platform
 
 A modern health and fitness platform with workout plans, nutrition tracking, injury care, authentication, and dashboards.
 
@@ -65,7 +65,7 @@ A modern health and fitness platform with workout plans, nutrition tracking, inj
 
 ---
 
-### 🌐 Portfolio Website
+### Portfolio Website
 
 Modern developer portfolio showcasing projects, skills, and contact information.
 
@@ -75,7 +75,7 @@ Modern developer portfolio showcasing projects, skills, and contact information.
 
 ---
 
-### 🛒 MERN E-Commerce Platform
+###  MERN E-Commerce Platform
 
 A complete shopping application with authentication, admin dashboard, product management, and secure REST APIs.
 
@@ -83,7 +83,7 @@ A complete shopping application with authentication, admin dashboard, product ma
 
 ---
 
-### 📋 Task Management System
+###  Task Management System
 
 A CRUD application with secure authentication and role-based access.
 
@@ -91,7 +91,7 @@ A CRUD application with secure authentication and role-based access.
 
 ---
 
-### 🏢 Laravel Admin Panel
+###  Laravel Admin Panel
 
 Complete Admin Dashboard with Authentication, CRUD Operations, and MySQL Database.
 

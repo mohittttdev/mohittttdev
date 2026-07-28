@@ -112,6 +112,10 @@ A full-featured Business Management System with a responsive Admin Dashboard, Se
 *  Building Scalable Full Stack Applications
 
 ---
+![](https://komarev.com/ghpvc/?username=mohittttdev)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohittttdev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittttdev&layout=compact&theme=tokyonight)
 
 # 📫 Let's Connect
 
@@ -123,7 +127,7 @@ A full-featured Business Management System with a responsive Admin Dashboard, Se
 
 ### 💡 Developer Quote
 
-> "First, solve the problem. Then, write the code." – John Johnson
+> "Code is not just syntax; it's solving real-world problems with simple solutions."
 
 ---
 

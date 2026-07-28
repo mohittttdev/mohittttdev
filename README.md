@@ -61,7 +61,7 @@
 
 * A modern health and fitness platform with workout plans, nutrition tracking, injury care, authentication, and dashboards.
 
-** Tech Stack:** PHP, MySQL, JavaScript, HTML, CSS
+ **Tech Stack:** PHP, MySQL, JavaScript, HTML, CSS
 
 ---
 

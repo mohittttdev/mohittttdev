@@ -93,10 +93,15 @@ Real-time, location-based weather app with live + weekly forecasts.
 
 <div align="center">
 
-<a href="mailto:Mohitttt009@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mohitttt009%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mohit-sharma-130b15418"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/mohittttdev"><img src="https://img.shields.io/badge/GitHub-mohittttdev-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://mohitdev.site.je"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:Mohitttt009@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Mohitttt009%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohit-sharma-130b15418">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/mohittttdev">
+  <img src="https://img.shields.io/badge/GitHub-mohittttdev-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://mohitdev.site.je">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:312E81,25:4338CA,50:6D28D9,75:7C3AED,100:8B5CF6&text=MOHIT%20SHARMA&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Devloper•%20MERN%20•%20MEAN%20•%20PHP%20•%20Laravel&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:312E81,25:4338CA,50:6D28D9,75:7C3AED,100:8B5CF6&text=MOHIT%20SHARMA&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20MERN%20•%20MEAN%20•%20PHP%20•%20Laravel&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Engineer;Building+Modern+Business+Applications;MERN+%7C+MEAN+%7C+PHP+%7C+Laravel+Developer;Always+Learning+New+Technologies"/>
 
@@ -21,7 +21,7 @@
 
 ## About Me
 
-I'm a **Full Stack Devloper** from New Delhi, India, specializing in **MERN, MEAN, PHP & Laravel**. I build secure backend systems, responsive UIs, and scalable REST APIs — with real end-to-end projects including an Enterprise Business Management System and multiple dashboard-based web apps.
+I'm a **Full Stack Developer** from New Delhi, India, specializing in **MERN, MEAN, PHP & Laravel**. I build secure backend systems, responsive UIs, and scalable REST APIs — with real end-to-end projects including an Enterprise Business Management System and multiple dashboard-based web apps.
 
 Currently seeking full-time, remote, or freelance Software Engineering roles.
 
@@ -82,14 +82,6 @@ Real-time, location-based weather app with live + weekly forecasts.
 <img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=mohittttdev&theme=tokyonight&hide_border=true"/>
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mohittttdev&theme=algolia&no-frame=true&row=1&column=6&margin-w=15"/>
-
-</div>
-
-### Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohittttdev&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 

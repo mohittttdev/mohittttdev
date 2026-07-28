@@ -57,7 +57,7 @@
 
 #  Featured Projects
 
-###  VitalNess – Fitness & Health Platform
+###VitalNess – Fitness & Health Platform
 
 * A modern health and fitness platform with workout plans, nutrition tracking, injury care, authentication, and dashboards.
 

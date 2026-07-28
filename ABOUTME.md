@@ -13,6 +13,8 @@
 <a href="mailto:Mohitttt009@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mohit-sharma-130b15418"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 
+<a href="https://github.com/mohittttdev"><img src="https://img.shields.io/github/followers/mohittttdev?style=for-the-badge&logo=github&label=Follow&color=7C3AED&logoColor=white"/></a>
+
 ![](https://komarev.com/ghpvc/?username=mohittttdev&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
 
 </div>

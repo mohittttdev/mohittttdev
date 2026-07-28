@@ -77,7 +77,7 @@
 
 ###  MERN E-Commerce Platform
 
- * A complete shopping application with authentication, admin dashboard, product management, and secure REST APIs.
+* A complete shopping application with authentication, admin dashboard, product management, and secure REST APIs.
 
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js
 
@@ -98,6 +98,11 @@
 **Tech Stack:** Laravel, PHP, MySQL
 
 ---
+###  BMS-Business Management System
+
+* A full-featured Business Management System with a responsive Admin Dashboard, Secure Authentication, Customer, Product, Supplier, Sales & Purchase Management, Inventory Tracking, and Reporting.
+
+**Tech Stack:** PHP, MySQL
 
 #  Current Focus
 

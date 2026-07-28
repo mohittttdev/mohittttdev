@@ -112,7 +112,9 @@ A full-featured Business Management System with a responsive Admin Dashboard, Se
 *  Building Scalable Full Stack Applications
 
 ---
-![](https://komarev.com/ghpvc/?username=mohittttdev)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohittttdev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohittttdev&show_icons=true&theme=tokyonight)
 

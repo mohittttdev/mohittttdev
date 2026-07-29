@@ -23,7 +23,7 @@ I build secure backend systems, responsive UIs, and scalable REST APIs — with 
   <a href="mailto:mohittttt009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://mohitdev.site.je/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://github.com/mohittttdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="[Add Resume Link]" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
+  <a href="[https://docs.google.com/document/d/1tBYVkIQgRnbE1KuFb5dsec62NxT7CvRp/edit]" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
 </p>
 
 <p align="center">

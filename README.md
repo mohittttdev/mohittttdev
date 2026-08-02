@@ -21,7 +21,7 @@ I build secure backend systems, responsive UIs, and scalable REST APIs — with 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohit-sharma-130b15418/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mohittttt009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://mohitdev.site.je/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://mohitttt.site.je/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://github.com/mohittttdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://docs.google.com/document/d/1tBYVkIQgRnbE1KuFb5dsec62NxT7CvRp/edit" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
@@ -160,7 +160,7 @@ Modern personal portfolio built with React.js and Tailwind CSS featuring respons
 
 `React.js` `Tailwind CSS` `JavaScript` `UI/UX`
 
-🔗 **Live Demo:** [mohitdev.site.je](https://mohitdev.site.je/)
+🔗 **Live Demo:** [mohitttt.site.je](https://mohitttt.site.je/)
 📂 **Code:** `[Add Repo Link]`
 
 </td>
@@ -224,7 +224,7 @@ Modern personal portfolio built with React.js and Tailwind CSS featuring respons
 <p align="center">
   <a href="https://www.linkedin.com/in/mohit-sharma-130b15418/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mohittttt009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://mohitdev.site.je/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://mohitttt.site.je/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://github.com/mohittttdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 

@@ -137,7 +137,7 @@ Responsive health platform with workout plans, BMI tools, dark mode & animations
 `HTML` `CSS` `JavaScript`
 
 🔗 **Live Demo:** `[Add Live Demo Link]`
-📂 **Code:** `[Add Repo Link]`
+ 📂 **Code:** [GitHub Repo](https://github.com/mohittttdev/Vitalness)
 
 </td>
 <td width="50%" valign="top">
@@ -161,7 +161,7 @@ Modern personal portfolio built with React.js and Tailwind CSS featuring respons
 `React.js` `Tailwind CSS` `JavaScript` `UI/UX`
 
 🔗 **Live Demo:** [mohitttt.site.je](https://mohitttt.site.je/)
-📂 **Code:** `[Add Repo Link]`
+ 📂 **Code:** [GitHub Repo](https://github.com/mohittttdev/mohitportfolio)
 
 </td>
 <td width="50%" valign="top">

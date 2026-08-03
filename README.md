@@ -88,89 +88,116 @@ I build secure backend systems, responsive UIs, and scalable REST APIs — with 
 </tr>
 </table>
 
-<br/>
-
-##  Featured Work
+<br/>## 🚀 Featured Project
 
 > **My strongest project — start here.**
 
-### 🏢 [Business Management System (BMS)](https://github.com/mohittttdev/BMS)
+### 🏢 Business Management System (BMS)
 
-**Problem:** Small businesses often manage inventory, sales, purchases, and supplier records across scattered spreadsheets or manual registers — leading to errors and no centralized reporting.
+**Problem:** Small businesses often manage inventory, sales, purchases, and supplier records using spreadsheets or manual records, resulting in errors and poor business visibility.
 
-**Solution:** Built a full enterprise-style admin platform from scratch with session-based authentication, role-based access control, and MVC architecture — covering inventory, sales, purchases, customers, and suppliers in one system.
+**Solution:** Developed a complete enterprise-style Business Management System with secure authentication, role-based access control, inventory management, sales, purchases, suppliers, customers, and reporting—all in one centralized platform.
 
-**Impact:**
--  Centralized inventory, sales & purchase tracking into a single dashboard
--  Implemented role-based access control for secure multi-user operations
--  Built dynamic reporting module for real-time business insights
--  Structured entire codebase on MVC pattern for maintainability & scalability
+#### ✨ Key Features
+- 📦 Inventory & Stock Management
+- 🛒 Sales & Purchase Management
+- 👥 Customer & Supplier Management
+- 🔐 Session-Based Authentication
+- 🛡️ Role-Based Access Control
+- 📊 Dynamic Reports & Dashboard
+- 🏗️ MVC Architecture
 
-`PHP` `MySQL` `JavaScript` `Bootstrap` · Session Auth · MVC Architecture
+#### 🚀 Impact
+- Centralized business operations into one dashboard
+- Reduced manual record management
+- Improved scalability with MVC architecture
+- Enabled secure multi-user management
 
-🔗 **Live Demo:** `[Add Live Demo Link]` &nbsp;|&nbsp; 📂 **Code:** [GitHub Repo](https://github.com/mohittttdev/BMS)
+`PHP` `MySQL` `JavaScript` `Bootstrap` `MVC` `Session Authentication`
 
-<br/>
+🔗 **Live Demo:** *Coming Soon*  
+📂 **Code:** https://github.com/mohittttdev/BMS
 
-##  More Projects
+---
 
-<table align="center" width="100%">
+# 🚀 More Projects
+
+<table>
 <tr>
+
 <td width="50%" valign="top">
 
-###  MERN E-Commerce Platform
-Full shopping platform with JWT auth, cart, orders, admin dashboard & product management.
+### 🛒 MERN E-Commerce Platform
 
-`MongoDB` `Express` `React` `Node.js`
+Complete shopping platform featuring authentication, shopping cart, orders, payment-ready architecture, and admin dashboard.
 
-🔗 **Live Demo:** `[Add Live Demo Link]`
-📂 **Code:** `[Add Repo Link]`
+**Tech Stack**
+
+`MongoDB` `Express.js` `React.js` `Node.js` `JWT`
+
+🔗 **Live Demo:** *Coming Soon*
+
+📂 **Code:** *Coming Soon*
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 
-###  VitalNess — Fitness & Health Platform
-Responsive health platform with workout plans, BMI tools, dark mode & animations.
+### 💪 VitalNess — Fitness Platform
+
+Modern fitness website with workout plans, BMI calculator, responsive design, dark mode, and smooth animations.
+
+**Tech Stack**
 
 `HTML` `CSS` `JavaScript`
 
-🔗 **Live Demo:** `[Add Live Demo Link]`
- 📂 **Code:** [GitHub Repo](https://github.com/mohittttdev/Vitalness)
+🔗 **Live Demo:** *Coming Soon*
+
+📂 **Code:** https://github.com/mohittttdev/Vitalness
 
 </td>
-<td width="50%" valign="top">
 
-###  Cloudy — Weather Forecast App
-Real-time, location-based weather app with live + weekly forecasts.
-
-`React` `REST API`
-
-🔗 **Live Demo:** `[Add Live Demo Link]`
-📂 **Code:** `[Add Repo Link]`
-
-</td>
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🌐 Portfolio — Full Stack Developer Website
-Modern personal portfolio built with React.js and Tailwind CSS featuring responsive layouts, interactive UI, and optimized UX.
+### 🌐 Developer Portfolio
 
-`React.js` `Tailwind CSS` `JavaScript` `UI/UX`
+Personal portfolio showcasing projects, skills, experience, contact form, animations, responsive design, and modern UI.
 
-🔗 **Live Demo:** [mohitttt.site.je](https://mohitttt.site.je/)
- 📂 **Code:** [GitHub Repo](https://github.com/mohittttdev/mohitportfolio)
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `PHP`
+
+🔗 **Live Demo:** https://mohitttt.site.je/
+
+📂 **Code:** https://github.com/mohittttdev/mohitportfolio
 
 </td>
+
 <td width="50%" valign="top">
 
+### ☁️ Cloudy — Weather App
+
+Real-time weather application with current weather, hourly & weekly forecasts, location search, and clean responsive UI.
+
+**Tech Stack**
+
+`React.js` `REST API`
+
+🔗 **Live Demo:** *Coming Soon*
+
+📂 **Code:** *Coming Soon*
+
 </td>
+
 </tr>
+
 </table>
 
-<br/>
+<br>
 
 ##  Experience
 

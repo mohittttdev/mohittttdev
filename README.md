@@ -88,26 +88,26 @@ I build secure backend systems, responsive UIs, and scalable REST APIs — with 
 </tr>
 </table>
 
-<br/>## 🚀 Featured Project
+<br/>##  Featured Project
 
 > **My strongest project — start here.**
 
-### 🏢 Business Management System (BMS)
+###  Business Management System (BMS)
 
 **Problem:** Small businesses often manage inventory, sales, purchases, and supplier records using spreadsheets or manual records, resulting in errors and poor business visibility.
 
 **Solution:** Developed a complete enterprise-style Business Management System with secure authentication, role-based access control, inventory management, sales, purchases, suppliers, customers, and reporting—all in one centralized platform.
 
-#### ✨ Key Features
-- 📦 Inventory & Stock Management
-- 🛒 Sales & Purchase Management
-- 👥 Customer & Supplier Management
-- 🔐 Session-Based Authentication
-- 🛡️ Role-Based Access Control
-- 📊 Dynamic Reports & Dashboard
-- 🏗️ MVC Architecture
+####  Key Features
+-  Inventory & Stock Management
+-  Sales & Purchase Management
+-  Customer & Supplier Management
+-  Session-Based Authentication
+-  Role-Based Access Control
+-  Dynamic Reports & Dashboard
+-  MVC Architecture
 
-#### 🚀 Impact
+####  Impact
 - Centralized business operations into one dashboard
 - Reduced manual record management
 - Improved scalability with MVC architecture
@@ -120,14 +120,14 @@ I build secure backend systems, responsive UIs, and scalable REST APIs — with 
 
 ---
 
-# 🚀 More Projects
+#  More Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🛒 MERN E-Commerce Platform
+###  MERN E-Commerce Platform
 
 Complete shopping platform featuring authentication, shopping cart, orders, payment-ready architecture, and admin dashboard.
 
@@ -143,7 +143,7 @@ Complete shopping platform featuring authentication, shopping cart, orders, paym
 
 <td width="50%" valign="top">
 
-### 💪 VitalNess — Fitness Platform
+###  VitalNess — Fitness Platform
 
 Modern fitness website with workout plans, BMI calculator, responsive design, dark mode, and smooth animations.
 
@@ -163,7 +163,7 @@ Modern fitness website with workout plans, BMI calculator, responsive design, da
 
 <td width="50%" valign="top">
 
-### 🌐 Developer Portfolio
+###  Developer Portfolio
 
 Personal portfolio showcasing projects, skills, experience, contact form, animations, responsive design, and modern UI.
 
@@ -179,7 +179,7 @@ Personal portfolio showcasing projects, skills, experience, contact form, animat
 
 <td width="50%" valign="top">
 
-### ☁️ Cloudy — Weather App
+###  Cloudy — Weather App
 
 Real-time weather application with current weather, hourly & weekly forecasts, location search, and clean responsive UI.
 
@@ -203,16 +203,16 @@ Real-time weather application with current weather, hourly & weekly forecasts, l
 
 **Full Stack Developer — Independent Projects** · 2024 – Present
 
-- 🏗️ Built an Enterprise Business Management System (PHP/MySQL) end-to-end, covering inventory, sales, purchases & supplier management
-- 🔐 Designed REST APIs, session/JWT-based authentication systems & role-based access control across multiple projects
-- 📊 Developed responsive admin dashboards and optimized SQL/MongoDB queries for faster data retrieval
-- 🌐 Delivered fully responsive UIs across 5+ projects, ensuring consistent experience on mobile, tablet & desktop
+-  Built an Enterprise Business Management System (PHP/MySQL) end-to-end, covering inventory, sales, purchases & supplier management
+-  Designed REST APIs, session/JWT-based authentication systems & role-based access control across multiple projects
+-  Developed responsive admin dashboards and optimized SQL/MongoDB queries for faster data retrieval
+-  Delivered fully responsive UIs across 5+ projects, ensuring consistent experience on mobile, tablet & desktop
 
 `React` `Node.js` `Express` `PHP` `Laravel` `MongoDB` `MySQL` `Git`
 
 <br/>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohittttdev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohit's GitHub Stats" height="165" />

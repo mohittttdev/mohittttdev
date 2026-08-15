@@ -215,17 +215,13 @@ Real-time weather application with current weather, hourly & weekly forecasts, l
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohittttdev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohit's GitHub Stats" height="165" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohittttdev&theme=radical&hide_border=true" alt="Mohit's GitHub Streak" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohittttdev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohittttdev&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+
+
 
 <br/>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohit </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+MEAN+%7C+PHP+%7C+Laravel;Building+Scalable+Web+Applications;Open+to+Full-Time+%2F+Remote+%2F+Freelance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;PHP+%7C+Laravel+%7C+MySQL+%7C+MongoDB;Building+Scalable+Web+Applications;Open+to+Full-Time+%2F+Remote+%2F+Freelance" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-I build secure backend systems, responsive UIs, and scalable REST APIs — with real end-to-end projects including an Enterprise Business Management System and multiple dashboard-based web apps.
+I build secure backend systems, responsive UIs, and scalable REST APIs in PHP/Laravel — with real end-to-end projects including a multi-module Business Management System and multiple full-stack web apps.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ I build secure backend systems, responsive UIs, and scalable REST APIs — with 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohit-sharma-130b15418/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:mohittttt009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:mohitttt009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://mohitttt.site.je/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://github.com/mohittttdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://docs.google.com/document/d/1tBYVkIQgRnbE1KuFb5dsec62NxT7CvRp/edit" target="_blank">
@@ -38,7 +38,7 @@ I build secure backend systems, responsive UIs, and scalable REST APIs — with 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js,nodejs,express,php,laravel,mongodb,mysql,git,github,postman,vscode&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,jquery,php,laravel,mysql,mongodb,git,github,postman,figma,vscode&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 <table align="center">
@@ -46,18 +46,16 @@ I build secure backend systems, responsive UIs, and scalable REST APIs — with 
 <td valign="top" width="20%">
 
 **Frontend**
-- React.js
-- Tailwind CSS
-- Bootstrap
 - HTML5 / CSS3
 - JavaScript (ES6+)
+- Bootstrap
+- Tailwind CSS
+- jQuery
 
 </td>
 <td valign="top" width="20%">
 
 **Backend**
-- Node.js
-- Express.js
 - PHP
 - Laravel
 
@@ -65,15 +63,15 @@ I build secure backend systems, responsive UIs, and scalable REST APIs — with 
 <td valign="top" width="20%">
 
 **Database**
-- MongoDB
 - MySQL
+- MongoDB
 
 </td>
 <td valign="top" width="20%">
 
 **Languages**
-- JavaScript
 - PHP
+- JavaScript
 
 </td>
 <td valign="top" width="20%">
@@ -81,14 +79,18 @@ I build secure backend systems, responsive UIs, and scalable REST APIs — with 
 **Tools**
 - Git & GitHub
 - Postman
-- VS Code
-- npm
+- XAMPP
+- Composer
+- Figma
+- Chrome DevTools
 
 </td>
 </tr>
 </table>
 
-<br/>##  Featured Project
+<br/>
+
+##  Featured Project
 
 > **My strongest project — start here.**
 
@@ -96,27 +98,27 @@ I build secure backend systems, responsive UIs, and scalable REST APIs — with 
 
 **Problem:** Small businesses often manage inventory, sales, purchases, and supplier records using spreadsheets or manual records, resulting in errors and poor business visibility.
 
-**Solution:** Developed a complete enterprise-style Business Management System with secure authentication, role-based access control, inventory management, sales, purchases, suppliers, customers, and reporting—all in one centralized platform.
+**Solution:** Developed a complete multi-module admin system covering Inventory, Sales, Purchase, Customer, and Supplier management with role-based authentication, all in one centralized platform. Designed normalized MySQL schemas to keep transactional data consistent across modules.
 
 ####  Key Features
 -  Inventory & Stock Management
 -  Sales & Purchase Management
 -  Customer & Supplier Management
--  Session-Based Authentication
--  Role-Based Access Control
--  Dynamic Reports & Dashboard
+-  Role-Based Authentication
+-  Reports Module for Sales & Inventory Summaries
+-  Normalized MySQL Schema Design
 -  MVC Architecture
 
 ####  Impact
 - Centralized business operations into one dashboard
 - Reduced manual record management
 - Improved scalability with MVC architecture
-- Enabled secure multi-user management
+- Kept transactional data consistent across modules
 
-`PHP` `MySQL` `JavaScript` `Bootstrap` `MVC` `Session Authentication`
+`PHP` `MySQL` `MVC` `Role-Based Authentication`
 
 🔗 **Live Demo:** *Coming Soon*  
-📂 **Code:** https://github.com/mohittttdev/BMS
+📂 **Code:** https://github.com/mohittttdev/business-management
 
 ---
 
@@ -127,33 +129,33 @@ I build secure backend systems, responsive UIs, and scalable REST APIs — with 
 
 <td width="50%" valign="top">
 
-###  MERN E-Commerce Platform
+###  Vitalness — Fitness Hub
 
-Complete shopping platform featuring authentication, shopping cart, orders, payment-ready architecture, and admin dashboard.
+Full-stack fitness web application with secure JWT-based authentication, workout tracking, and a MySQL data layer. REST APIs in PHP keep the client and server cleanly separated.
 
 **Tech Stack**
 
-`MongoDB` `Express.js` `React.js` `Node.js` `JWT`
+`PHP` `Laravel` `MySQL` `JWT`
 
 🔗 **Live Demo:** *Coming Soon*
 
-📂 **Code:** *Coming Soon*
+📂 **Code:** https://github.com/mohittttdev/vitalness
 
 </td>
 
 <td width="50%" valign="top">
 
-###  VitalNess — Fitness Platform
+###  Spotify Clone
 
-Modern fitness website with workout plans, BMI calculator, responsive design, dark mode, and smooth animations.
+Music streaming clone in PHP that fetches track, artist, and album data from an external API, with dynamic pages to browse and play tracks — UI modeled on the original Spotify layout.
 
 **Tech Stack**
 
-`HTML` `CSS` `JavaScript`
+`PHP` `REST API`
 
 🔗 **Live Demo:** *Coming Soon*
 
-📂 **Code:** https://github.com/mohittttdev/Vitalness
+📂 **Code:** https://github.com/mohittttdev/Spotify-Clone
 
 </td>
 
@@ -165,11 +167,11 @@ Modern fitness website with workout plans, BMI calculator, responsive design, da
 
 ###  Developer Portfolio
 
-Personal portfolio showcasing projects, skills, experience, contact form, animations, responsive design, and modern UI.
+Personal portfolio built with Tailwind CSS, showcasing projects, skills, and experience with smooth animations, a working contact form, and a fully responsive layout — deployed and actively maintained live.
 
 **Tech Stack**
 
-`HTML` `CSS` `JavaScript` `PHP`
+`Tailwind CSS` `HTML` `CSS` `JavaScript`
 
 🔗 **Live Demo:** https://mohitttt.site.je/
 
@@ -179,13 +181,13 @@ Personal portfolio showcasing projects, skills, experience, contact form, animat
 
 <td width="50%" valign="top">
 
-###  Cloudy — Weather App
+###  Coming Soon
 
-Real-time weather application with current weather, hourly & weekly forecasts, location search, and clean responsive UI.
+More full-stack projects in the pipeline — check back soon or explore my other repos directly.
 
 **Tech Stack**
 
-`React.js` `REST API`
+`PHP` `Laravel` `MySQL`
 
 🔗 **Live Demo:** *Coming Soon*
 
@@ -201,14 +203,14 @@ Real-time weather application with current weather, hourly & weekly forecasts, l
 
 ##  Experience
 
-**Full Stack Developer — Independent Projects** · 2024 – Present
+**Full Stack Web Developer — Independent Projects** · 2024 – Present
 
--  Built an Enterprise Business Management System (PHP/MySQL) end-to-end, covering inventory, sales, purchases & supplier management
--  Designed REST APIs, session/JWT-based authentication systems & role-based access control across multiple projects
--  Developed responsive admin dashboards and optimized SQL/MongoDB queries for faster data retrieval
--  Delivered fully responsive UIs across 5+ projects, ensuring consistent experience on mobile, tablet & desktop
+-  Built a multi-module Business Management System (PHP/MySQL) end-to-end, covering inventory, sales, purchases & supplier management
+-  Designed REST APIs, JWT/role-based authentication systems & access control across multiple projects
+-  Developed responsive UIs and optimized MySQL/MongoDB queries for faster data retrieval
+-  Delivered fully responsive interfaces across 4+ projects, ensuring consistent experience on mobile, tablet & desktop
 
-`React` `Node.js` `Express` `PHP` `Laravel` `MongoDB` `MySQL` `Git`
+`PHP` `Laravel` `MySQL` `MongoDB` `JavaScript` `Bootstrap` `Tailwind CSS` `Git`
 
 <br/>
 
@@ -218,10 +220,6 @@ Real-time weather application with current weather, hourly & weekly forecasts, l
  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohittttdev&theme=radical&hide_border=true" alt="Mohit's GitHub Streak" height="165" />
 </p>
-
-
-
-
 
 <br/>
 
@@ -235,10 +233,10 @@ Real-time weather application with current weather, hourly & weekly forecasts, l
 
 ##  Why Work With Me
 
-- ✅ I build **complete systems**, not just UI — auth, database design, and business logic included
-- ✅ Comfortable across **two full stacks** (MERN & PHP/Laravel), so I adapt to your existing codebase instead of forcing a rewrite
-- ✅ I write code with **maintainability in mind** — MVC structure, clean commits, and documentation
-- ✅ Reliable communicator — quick turnaround on updates and feedback
+-  I build **complete systems**, not just UI — auth, database design, and business logic included
+-  Deep focus on **PHP & Laravel**, so I write clean, maintainable code that fits into existing codebases
+-  I write code with **maintainability in mind** — MVC structure, clean commits, and documentation
+-  Reliable communicator — quick turnaround on updates and feedback
 
 <br/>
 
@@ -246,7 +244,7 @@ Real-time weather application with current weather, hourly & weekly forecasts, l
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohit-sharma-130b15418/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:mohittttt009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:mohitttt009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://mohitttt.site.je/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://github.com/mohittttdev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
